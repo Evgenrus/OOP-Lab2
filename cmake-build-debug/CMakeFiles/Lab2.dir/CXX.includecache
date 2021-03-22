@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/EVGEN/Desktop/dev/OOP/Lab2/Matrix.cpp
+iostream
+-
+Matrix.h
+C:/Users/EVGEN/Desktop/dev/OOP/Lab2/Matrix.h
+
+C:/Users/EVGEN/Desktop/dev/OOP/Lab2/Matrix.h
+
+C:/Users/EVGEN/Desktop/dev/OOP/Lab2/main.cpp
+iostream
+-
+Matrix.h
+C:/Users/EVGEN/Desktop/dev/OOP/Lab2/Matrix.h
+
